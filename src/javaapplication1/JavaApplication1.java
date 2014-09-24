@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package javaapplication1;
+package JavaApplication1;
 
 /**
  *
@@ -16,6 +16,9 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        int i;
+        
         // TODO code application logic here
     }
     
